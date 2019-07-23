@@ -8,6 +8,10 @@ simple "homepage" for your project. Instructions for creating your own
 GitHub repository from these files may be given during the course. The
 same instructions are also summarized in [CONTRIBUTING.md].
 
+## Collaborators
+
+- Zheng Liu
+
 ## Data
 
 If this project does not contain a data folder, the way to access data
