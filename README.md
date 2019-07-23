@@ -9,8 +9,10 @@ GitHub repository from these files may be given during the course. The
 same instructions are also summarized in [CONTRIBUTING.md].
 
 ## Collaborators
+- Portia Williams
 
 - Zheng Liu
+
 
 ## Data
 
